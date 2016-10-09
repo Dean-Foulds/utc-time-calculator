@@ -24,7 +24,7 @@ for f in EXPECTED_FNS:
 REAL_ZONES = [
     'local', 'UTC-12.0',  'UTC-11.0',  'UTC-10.0',  'UTC-9.5',  'UTC-9.0',
     'UTC-8.0',  'UTC-7.0',  'UTC-6.0',  'UTC-5.0',  'UTC-4.5',  'UTC-4.0',
-    'UTC-3.5',  'UTC-3.0',  'UTC-2.0',  'UTC-1.0',  'London-UTC+0.0',  'UTC+1.0',
+    'UTC-3.5',  'UTC-3.0',  'UTC-2.0',  'UTC-1.0',  'London-UTC+0.0',  'Paris-UTC+1.0',
     'UTC+2.0',  'UTC+3.0',  'UTC+3.5',  'UTC+4.0',  'UTC+4.5',  'UTC+5.0',
     'UTC+5.5',  'UTC+5.75',  'UTC+6.0',  'UTC+6.5',  'UTC+7.0',  'UTC+8.0',
     'UTC+8.75',  'UTC+9.0',  'UTC+9.5',  'UTC+10.0',  'UTC+10.5',  'UTC+11.0',
